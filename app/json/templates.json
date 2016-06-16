@@ -1,0 +1,77 @@
+[
+	{
+		"id" : 1,
+		"name":"Sony Walkman NW-E394",
+		"description":"This lightweight Walkman can play MP3s for long hours between charges, and with a simple drag and drop interface it's easy to load up all your music. The easy-to-use controls let you find the right song, view photos and tune the radio in seconds..",
+		"type": "1.7 in x 0.4 in x 3.6 in; 1.38 oz; WMA, AAC, MP3, LPCM JPEG",
+		"price": 71.99,
+		"images": [
+			{
+				"name": "sonymp3.jpg"
+			
+			}
+		]
+	},
+	{	
+		"id" : 2,
+		"name":"Universal 16gb Mp4 Player",
+		"description":"This is a great option as it has many great features for a reasonable cost.",
+		"type": "16gb Mp4 Player FM Radio Video Games Movie",
+		"price": 19.99,
+		"images": [
+			{
+				"name": "mp3one.jpeg"
+			}
+		],
+		"soldOut":true
+	},
+	{
+		"id" : 3,
+		"name":"Sandisk 8GB Clip Jam MP3 Player",
+		"description":"The bright one inch screen and big navigation buttons make it easy to drag and drop pictures.",		
+		"type": "0.6 x 1.6 x 2.6 inches; 0.6 ounces; comes with 8 GB (1) of storage",
+		"price": 34.99,
+		"images": [
+			{
+				"name": "sandisk1.jpeg"
+			}
+		]
+	},
+	{
+		"id" : 4,
+		"name":"iPod Shuffle",
+		"description":"The smallest model in Apple's iPod family, and was the first to use flash memory.",		
+		"type": "The clickable control pad on the front of iPod shuffle makes it easy to see and use the music controls.",
+		"price": 49.99,
+		"images": [
+			{
+				"name": "shuffle.jpeg"
+			}
+		]
+	},
+	{
+		"id" : 5,
+		"name":"Vertigo 8GB MP3/MP4 Player",
+		"description":"A great and affordable option to the higher priced options",		
+		"type": "8GB flash memory; Supports MP3, MP4 files; Includes earbuds and USB cable",
+		"price": 23.39,
+		"images": [
+			{
+				"name": "vertigo1.jpeg"
+			}
+		]
+	},
+	{
+		"id" : 6,
+		"name":"Eclipse - 180 Pro 4GB",
+		"description":"Another great affordable alternative to the big boys",		
+		"type": "Features a micro SD card slot (not included) for expansive storage. The built-in video camera lets you capture the action without switching devices.",
+		"price": 29.99,
+		"available": true,
+		"images": [
+			{
+				"name": "Eclipse.jpg"
+			}
+		]
+	}
+]
